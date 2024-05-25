@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **python, JavaScript and react**
+- 💬 Ask me about **Python, JavaScript and ReactJs**
 
 - 📫 How to reach me : **meetpatelg3@gmail.com**
 
@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/meet-patel-mp168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet-patel-mp168" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/meetpateldh_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meetpateldh_2004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/meet_748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meet_748" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/meet_748" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meet_748" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/meet_748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meet_748" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
