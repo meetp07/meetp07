@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetp07&label=Profile%20views&color=0e75b6&style=flat" alt="meetp07" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently persuing my degree in Computer Scince and Engineering from Parul University
 
 - 💬 Ask me about **Python, JavaScript and ReactJs**
 
