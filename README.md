@@ -1,37 +1,41 @@
-<h1 align="center">Hi 👋, I'm Meet Patel</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# Hi, I'm Meet Patel 👋
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
+**Odoo Developer** based in Ahmedabad, India — building and customising Odoo ERP for international clients since January 2025.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetp07&label=Profile%20views&color=0e75b6&style=flat" alt="meetp07" /> </p>
+I work across the whole Odoo stack: backend Python/ORM, OWL frontend, security and access design, reporting, integrations and version migrations, on **Odoo 16 → 20 (Community and Enterprise)**.
 
-- 🌱 I’m currently persuing my degree in Computer Scince and Engineering from Parul University
+---
 
-- 💬 Ask me about **Python, JavaScript and ReactJs**
+### 🧩 What I build
 
-- 📫 How to reach me : **meetpatelg3@gmail.com**
+- **Custom modules** — new apps and extensions to Project, Field Service, CRM, Inventory, Timesheets and HR
+- **OWL frontend** — custom views and widgets, e.g. a split-panel list + form layout with a draggable divider
+- **Reporting & exports** — Excel exports for Gantt and Timesheet Grid views built on a reusable mixin, plus QWeb and analysis reports
+- **Security & multi-company** — access-rights audits, record-level restrictions, cross-company data access fixes
+- **Integrations** — AWS S3 document storage, REST APIs, third-party connectors
+- **Upgrades** — migrating custom modules across versions, including Odoo 20's access-rights and mail-tracking changes
+- **Client work** — requirement discussions, estimates, UAT and hand-over with clients in manufacturing, logistics, field service and consulting
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meet-patel-mp168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet-patel-mp168" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/meet_748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meet_748" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/meetpateldh_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meetpateldh_2004" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/meet_748" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meet_748" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="background-color:white"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+| Area | Tools |
+|---|---|
+| ERP | Odoo 16, 17, 18, 19, 20 — Community & Enterprise, Odoo.sh |
+| Backend | Python, Odoo ORM, PostgreSQL, REST APIs |
+| Frontend | OWL, JavaScript, QWeb, XML, HTML/CSS |
+| Quality | OCA guidelines, PEP 8, code review, unit tests |
+| Cloud & tools | AWS S3, Linux, Git, GitHub Actions |
+| AI & data | Machine learning (B.Tech CSE, AI/ML), pandas, NumPy, LLM tooling and MCP |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetp07&show_icons=true&locale=en&layout=compact" alt="meetp07" /></p>
+### 🔭 Side projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetp07&show_icons=true&locale=en" alt="meetp07" /></p>
+- **NSE research agent** *(private)* — a self-checking swing-trading research system for Indian equities, running on GitHub Actions. Paper-only by design: a test blocks any path to a real order. Includes look-ahead and cost tests, walk-forward validation and pre-registered experiments.
+- **AI developer tooling** — skill packs and workflow automation for freelancers and developers.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetp07&" alt="meetp07" /></p>
+### 🎓 Education
+
+**B.Tech, Computer Science & Engineering (AI/ML)** — Parul University, 2025
+
+### 📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) · happy to talk Odoo, ERP and Python.
