@@ -38,4 +38,4 @@ I work across the whole Odoo stack: backend Python/ORM, OWL frontend, security a
 
 ### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) · happy to talk Odoo, ERP and Python.
+[LinkedIn](https://www.linkedin.com/in/meet-patel-mp168) · happy to talk Odoo, ERP and Python.
